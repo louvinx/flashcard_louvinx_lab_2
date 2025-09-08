@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashcard</string>
+    <string name="barack_obama">Barack OBAMA</string>
+    <string name="george_w_bush">George W. Bush</string>
+    <string name="bill_clinton">Bill Clinton</string>
+    <string name="who_is_the_44th_president_of_united_states">who is the 44th president of united states</string>
+    <string name="icon_to_hide_answer">icon to hide answer</string>
+    <string name="icon_to_show_answer">icon to show answer</string>
+</resources>
